@@ -2,9 +2,9 @@
 
 ## General Info
 
-Deployed Link: https://case1440.github.io/animated-octo-computing-machine/
+Deployed Link: https://case1440.github.io/verbose-happiness/
 
-Public Github Repo: https://github.com/Case1440/animated-octo-computing-machine
+Public Github Repo: https://github.com/Case1440/verbose-happiness
 
 ## User Story
 
@@ -42,7 +42,7 @@ The Project was created with:
 
 ## Walkthrough
 
-
+https://github.com/Case1440/verbose-happiness/blob/main/Untitled_%20Nov%2017%2C%202023%2011_25%20PM.webm
 
 ## Summary
 
