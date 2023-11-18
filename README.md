@@ -2,8 +2,6 @@
 
 ## General Info
 
-Deployed Link: https://case1440.github.io/verbose-happiness/
-
 Public Github Repo: https://github.com/Case1440/verbose-happiness
 
 ## User Story
